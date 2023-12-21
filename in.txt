@@ -1,0 +1,29 @@
+2023.10.21 Smetana 70
+2023.10.13 Shaurma 170
+2023.10.12 Tvorog 90
+2023.10.09 Yogurt 50
+2023.10.09 Sir 200
+2023.09.20 PotatoDerevenski 150
+----.--.-- ------- ------
+2023.. ProductA 100
+ProductB 200
+2020.02.29 ProductC 300
+2023.02.29 ProductD 400 
+0000.09.30 ProductE 400 
+2023.02.30 ProductF 500
+2023.01.32 ProductG 600
+2023.03.32 ProductH 700
+2023.05.32 ProductI 800
+2023.07.32 ProductJ 900
+2023.08.32 ProductK 1000
+2023.10.32 ProductL 1100
+2023.12.32 ProductM 1200
+2023.04.31 ProductN 1500
+2023.06.31 ProductO 1600
+2023.09.31 ProductP 1700
+2023.11.31 ProductQ 1800
+2023.09.10 ПродуктА 1700
+2023.09.12 1800
+2023.09.13 ProductT 190.10
+2023.09.18 ProductU -2000
+2023.09.19 ProductV
